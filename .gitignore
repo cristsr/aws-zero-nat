@@ -1,0 +1,5 @@
+.idea
+.terraform
+README.MD
+terraform.tfstate.backup
+terraform.tfstate
